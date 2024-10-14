@@ -21,8 +21,8 @@
     ],
     "require": {
       "php": ">=8.1",
-      "illuminate/support": "^10",
-      "illuminate/config": "^10",
+      "illuminate/support": "^11",
+      "illuminate/config": "^11",
       "symfony/finder": "^6",
       "symfony/console": "^6",
       "aws/aws-sdk-php": "~3.2"
